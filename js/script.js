@@ -1,8 +1,4 @@
-/**
- * Keeping Up With the Javascripts - Part 1: ES6
- * Project #1 - to-do list application
- * Homework Assignment #9 - Template literals
-**/
+
 
 // global variable to handle user information
 let user = {};
