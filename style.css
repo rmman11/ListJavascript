@@ -1,0 +1,113 @@
+
+html, body{
+	font-size: 16px;
+	padding: 0;
+	margin: 0;
+	font-family: Arial;
+}
+
+body
+{
+  margin:20px 10%;
+  padding:0;
+ background-image: url("images/paper.gif");
+  background-color: #cccccc
+  color:#000;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+header{
+	height: 10rem;
+	color: white;
+	font-size: 2em;
+	text-shadow: 2px 2px #777;
+  text-align: center;
+	display: flex;
+	padding: 2px;
+	margin-bottom: 1rem;
+background-color: #209cee;
+	background-size: cover;
+	background-position: top bottom;
+	border-bottom: 5px solid khaki;
+}
+
+
+
+
+.column.is-half, .column.is-half-tablet {
+
+    margin-right: 550px;
+}
+
+#wrapper{
+	background: #fff;
+	min-height: 30em;
+	width: 70rem;
+	margin: auto;
+	box-shadow: 0 0 10px #999;
+}
+
+.box {
+    background-color: #fff;
+border-radius: 6px;
+box-shadow: 0 2px 3px
+rgba(10,10,10,.1),0 0 0 1px
+rgba(10,10,10,.1);
+color:#4a4a4a;
+display: block-inline;
+padding: 1.25rem;
+float: left;
+}
+
+.menu-label {
+    font-size: 1em;
+}
+
+.menu-list li {
+    margin: 10px;
+}
+
+.menu-list a.is-active {
+    background-color: #209cee;
+}
+
+.menu-list li a:hover {
+    background: #d9d9d9;
+}
+
+.table thead th.tools {
+    width: 210px !important;
+}
+
+.task-done {
+    text-decoration: line-through;
+}
+
+#unlogged-buttons,
+#logged-buttons {
+    margin: 10px;
+}
+
+.valign {
+    vertical-align: middle !important;
+}
+
+.columns:not(.is-desktop) {
+    display: flex;
+}
+.columns.is-centered {
+    justify-content: center;
+}
+.columns:last-child {
+    margin-bottom: -.75rem;
+}
+.columns {
+    margin-left: -.75rem;
+    margin-right: -.75rem;
+    margin-top: -.75rem;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
