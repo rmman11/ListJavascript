@@ -1,5 +1,7 @@
 # ListJavascript
-This is simple project in javascrip
+This is simple project in javascript
+
+ to-do list application
 
 create a list when You are logged
 
