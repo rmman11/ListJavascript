@@ -5,6 +5,7 @@ This is simple project in javascript
 
 create a list when You are logged
 
-before login you must to resister.
+before login you must to register.
+
 When you are logged you can create task and see your account.
 
