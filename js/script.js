@@ -485,7 +485,7 @@ function loadPage(page) {
         </div>
     </section>
     <footer class='footer'>
-    footer page
+     <div id="date"></div> 	
 		</footer>
     </div>
     `;
